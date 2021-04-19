@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QuickAmazonBooks</string>
+    <string name="failed_error">Failed to load data.</string>
+</resources>
